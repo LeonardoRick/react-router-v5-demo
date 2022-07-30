@@ -1,0 +1,77 @@
+{
+  "quotes": [
+    {
+      "id": "q1",
+      "author": "Maxxxx",
+      "text": "Learning React is fun!",
+      "comments": [
+        {
+          "id": "2cc80b25-8b89-478a-b332-13c9505ccdb9",
+          "text": "tewqtqweq"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "author": "Leonardo",
+      "text": "React is better than Angular",
+      "comments": [
+        {
+          "id": "38d25993-0427-48f1-b1e6-a56bae184344",
+          "text": "eqw"
+        }
+      ],
+      "coments": [
+        {
+          "id": "14125961-9ff1-4241-bd46-343dce687083",
+          "text": "2rweq"
+        },
+        {
+          "id": "38d25993-0427-48f1-b1e6-a56bae184344",
+          "text": "eqw"
+        },
+        {
+          "id": "1240dc14-4bfa-4dcb-97e1-b7453e95732a",
+          "text": "ha mlk\n"
+        }
+      ]
+    },
+    {
+      "author": "1",
+      "text": "1",
+      "id": "4c363866-206a-4a14-bf7d-e76ddae9d97c",
+      "comments": [
+        {
+          "id": "01701575-3b6c-4f18-b7d4-c0ed93337545",
+          "text": "eq"
+        },
+        {
+          "id": "aa618ba2-4501-4bd1-8449-0296ff7ac8ae",
+          "text": "ewqqwe"
+        },
+        {
+          "id": "802f92c3-5c02-4e57-9260-4fda0ed03ee1",
+          "text": "qad"
+        },
+        {
+          "id": "b4757c4e-5d90-4d3a-a212-294c7ab2f950",
+          "text": "AH VEI"
+        },
+        {
+          "id": "fb0ec3d8-e623-46e2-9dd7-9732406b3ab1",
+          "text": "dadsa"
+        }
+      ]
+    },
+    {
+      "author": "ewq",
+      "text": "qwe",
+      "id": "ace96caa-a596-49eb-b5f0-8fc0aa76f74a"
+    },
+    {
+      "author": "Leonardo",
+      "text": "Be better than you\n",
+      "id": "20cc5d49-61d3-4b5f-b48b-e4dc286eba35"
+    }
+  ]
+}
