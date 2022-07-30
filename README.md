@@ -1,4 +1,6 @@
 # react-router-v5-demo
+---
+
 Example of react router V5 implementation on a basic react application that shows quotes and allow you to add, delete and update quote info
 
 
@@ -8,3 +10,5 @@ Home Screen                         |    Quote Screen                    |      
 
 You will see that fetch calls are maded without an endpoint. This is possible because we settle up a proxy on package.json
   "proxy": "http://localhost:8080"
+
+The project also uses lazy loading on some components
